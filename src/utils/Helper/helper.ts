@@ -25,7 +25,7 @@ export const navList:NavList[] = [
     },
     {
         name:'Team',
-        link:'team'
+        link:'/team'
     },
     {
         name:'pricing',
