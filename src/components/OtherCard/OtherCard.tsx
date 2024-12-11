@@ -1,13 +1,10 @@
 'use client';
 import { ClothList } from '@/utils/Type/type'
 import Image from 'next/image'
-import { usePathname, useRouter } from 'next/navigation';
 import React from 'react'
 
 function OtherCard({clothlist}:{clothlist:ClothList}) {
-    const {img,name,category,oldPrice,newPrice,color,id} = clothlist;
-    // const colorShowPath = usePathname();
-    // const prodRoute = useRouter();
+    const {img,name,category,oldPrice,newPrice} = clothlist;
   return (
     <div  className='flex flex-col items-center'>
                     <Image

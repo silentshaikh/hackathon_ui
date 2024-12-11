@@ -1,5 +1,4 @@
 import { clothList, poppins } from '@/utils/Helper/helper'
-import { ClothList } from '@/utils/Type/type'
 import React from 'react'
 import ProductImg from '../ProductImg/ProductImg';
 import ProductImgContent from '../ProductImgContent/ProductImgContent';

@@ -1,7 +1,6 @@
 import { poppins, rubikBuble } from '@/utils/Helper/helper'
 import React from 'react'
 import { FaGreaterThan } from 'react-icons/fa'
-import { PiGreaterThanLight } from 'react-icons/pi'
 
 function ShopCollectBar() {
   return (

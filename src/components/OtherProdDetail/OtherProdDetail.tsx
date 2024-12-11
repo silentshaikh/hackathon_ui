@@ -1,4 +1,3 @@
-import { otherBox1 } from '@/utils/Helper/helper'
 import Image from 'next/image'
 import React from 'react'
 import OtherBox from '../OtherBox/OtherBox'

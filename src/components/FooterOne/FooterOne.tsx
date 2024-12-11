@@ -1,7 +1,4 @@
 'use client';
-import Logo from '../Logo/Logo'
-import { PiTwitterLogoDuotone } from 'react-icons/pi'
-import { SlSocialInstagram } from 'react-icons/sl'
 import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
 import { rubikBuble } from '@/utils/Helper/helper'
 import { usePathname } from 'next/navigation';

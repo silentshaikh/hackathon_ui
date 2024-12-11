@@ -2,7 +2,6 @@
 import { useEcomHook } from "@/Context/Context"
 import HeaderTogg from "../HeaderTogg/HeaderTogg"
 import Logo from "../Logo/Logo"
-import Navbar from "../Navbar/Navbar"
 import SecondNav from "../SecondNav/SecondNav";
 import SecondLog from "../SecondLog/SecondLog";
 
