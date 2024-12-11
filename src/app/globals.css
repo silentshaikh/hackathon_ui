@@ -64,6 +64,8 @@
   background-image: url(../../public/images/shop-hero-1-product-slide-1.jpg);
   /* height: 100vh; */
   /* background-position: center center; */
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 @media only screen and (max-width:1000px){
   .hero-sec{
